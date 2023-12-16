@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DoAn2.QLKhoaHoc.Api.User.props" />
+</Project>
